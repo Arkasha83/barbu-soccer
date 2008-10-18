@@ -9,10 +9,7 @@
 
 package Game;
 
-import javax.microedition.lcdui.Display;
 import javax.microedition.lcdui.Displayable;
-import javax.microedition.lcdui.game.Sprite;
-
 /**
  *
  * @author Administrateur
