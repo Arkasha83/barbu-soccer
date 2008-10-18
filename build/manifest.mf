@@ -1,4 +1,5 @@
-MIDlet-1: BarbuMidlet,/images/ball.PNG,Interface.BarbuMidlet
+MIDlet-2: BarbuMidlet,/images/ball.PNG,Interface.BarbuMidlet
+MIDlet-1: BarbuMidlet,/images/ball.PNG,Interface.BarbuMidletOLD
 MIDlet-Vendor: ArkaCorp
 MIDlet-Name: Barbu Dent Bleu Soccer
 MIDlet-Version: 1.0
